@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FantasySolitaire</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_stats">Stats</string>
+    <string name="title_activity_settings">Setts</string>
+    <string name="start_game">Start Game</string>
+    <string name="new_player">new player</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="go">Go!</string>
+    <string name="sure_delete">Are you sure you want to delete</string>
+    <string name="succs">Successfully deleted</string>
+    <string name="delete">delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="settings">Settings</string>
+    <string name="moves">Moves</string>
+    <string name="stats">Statistics</string>
+    <string name="game">Game</string>
+    <string name="complete">Complete</string>
+    <string name="new_game">Want to start a new Game?</string>
+    <string name="games_played">Games Played</string>
+    <string name="min_moves">Minimum moves</string>
+    <string name="min_time">minimum time</string>
+    <string name="av_win_moves">Average winning moves</string>
+    <string name="av_win_time">Average winning time</string>
+    <string name="win_perc">win percentage</string>
+    <string name="draw_3">Draw 3</string>
+    <string name="classical">classical</string>
+    <string name="looks_like">Looks like you can choose a new Power!</string>
+    <string name="keep_try">GREAT! You reached a new Level but still you need more Wisdom to control great Powers! Keep training! \nNew Game?</string>
+    <string name="the_name">The name \'</string>
+    <string name="belongs">\' belogs already to another Player, please choose a different name!</string>
+    <string name="card_to_find">Which crad to you wan to find?</string>
+    <string name="find_it">Find it</string>
+    <string name="should_know">You should know where it is</string>
+    <string name="not_in_field">Not in the Field covered</string>
+    <string name="no_more">No more powers</string>
+    <string name="not_null">I am sure you have a better name</string>
+    
+    
+    <string name="wnorm1_0">Classical N00b</string>
+    <string name="wnorm1_1">Win 1 game in classical mode</string>
+    <string name="wnorm10_0">Go on son</string>
+    <string name="wnorm10_1">Win 10 games in classical mode</string>
+    <string name="wnorm100_0">Don\'t you have to study?</string>
+    <string name="wnorm100_1">Win 100 game in classical mode</string>
+    
+    <string name="tnorm100_0">Can you really go faster?</string>
+    <string name="tnorm100_1">Win a game in less than 100 seconds in Classical mode</string>
+    <string name="tnorm200_0">In Average</string>
+    <string name="tnorm200_1">Win a game in less than 200 seconds in Classical mode</string>
+    <string name="tnorm300_0">Take your time</string>
+    <string name="tnorm300_1">Win a game in less than 5 minutes in Classical mode</string>
+    
+    <string name="mnorm25_0">I call that luck</string>
+    <string name="mnorm25_1">Win a game in less than 25 moves in Classical mode</string>
+    <string name="mnorm50_0">Save moves, win time</string>
+    <string name="mnorm50_1">Win a game in less than 50 moves in Classical mode</string>
+    <string name="mnorm100_0">Moves lover</string>
+    <string name="mnorm100_1">Win a game in less 100 move in Classical mode</string>
+    
+    <string name="wthree1_0">Draw N00b</string>
+    <string name="wthree1_1">Win 1 game in Draw 3 mode</string>
+    <string name="wthree10_0">3 times better</string>
+    <string name="wthree10_1">Win 10 games in Draw 3 mode</string>
+    <string name="wthree100_0">Great patience</string>
+    <string name="wthree100_1">Win 100 game in Draw 3 mode</string>
+    
+    <string name="tthree100_0">3 times faster</string>
+    <string name="tthree100_1">Win a game in less than 100 seconds in Draw 3 mode</string>
+    <string name="tthree200_0">Still better than my Grandma</string>
+    <string name="tthree200_1">Win a game in less than 200 seconds in Draw 3 mode</string>
+    <string name="tthree300_0">Wanna a coffee?</string>
+    <string name="tthree300_1">Win a game in less than 5 minutes in Draw 3 mode</string>
+    
+    <string name="mthree25_0">Look mom, with no hands</string>
+    <string name="mthree25_1">Win a game in less than 25 moves in Draw 3 mode</string>
+    <string name="mthree50_0">Way to go</string>
+    <string name="mthree50_1">Win a game in less than 50 moves in Draw 3 mode</string>
+    <string name="mthree100_0">Drag and Drop lover</string>
+    <string name="mthree100_1">Win a game in less 100 move in Draw 3 mode</string>
+
+    <string name="wvegas1_0">Vegas N00b</string>
+    <string name="wvegas1_1">Win 1 game in Vegas mode</string>
+    <string name="wvegas10_0">Good Attitude</string>
+    <string name="wvegas10_1">Win 10 games in Vegas mode</string>
+    <string name="wvegas100_0">Broken glass</string>
+    <string name="wvegas100_1">Win 100 game in Vegas mode</string>
+    
+    <string name="tvegas100_0">Flash son</string>
+    <string name="tvegas100_1">Win a game in less than 100 seconds in Vegas mode</string>
+    <string name="tvegas200_0">Lynx eye</string>
+    <string name="tvegas200_1">Win a game in less than 200 seconds in Vegas mode</string>
+    <string name="tvegas300_0">Save the day</string>
+    <string name="tvegas300_1">Win a game in less than 5 minutes in Vegas mode</string>
+    
+    <string name="mvegas25_0">Drag and Drop hater</string>
+    <string name="mvegas25_1">Win a game in less than 25 moves in Vegas mode</string>
+    <string name="mvegas50_0">Less 50</string>
+    <string name="mvegas50_1">Win a game in less than 50 moves in Vegas mode</string>
+    <string name="mvegas100_0">Vegas beginner</string>
+    <string name="mvegas100_1">Win a game in less 100 move in Vegas mode</string>
+    
+    <string name="ice1_0">Ice novice</string>
+    <string name="ice1_1">Find to way to controle Ice1</string>
+    <string name="ice2_0">Ice adept</string>
+    <string name="ice2_1">Find to way to controle Ice2</string>
+    <string name="ice3_0">Ice Master</string>
+    <string name="ice3_1">Find to way to controle Ice3</string>
+    
+    <string name="ice1_0_0">Ice1</string>
+    <string name="ice1_1_1">Freezes time for 10 seconds</string>
+    <string name="ice2_0_0">Ice2</string>
+    <string name="ice2_1_1">Frezees moves counter for 10 moves</string>
+    <string name="ice3_0_0">Ice3</string>
+    <string name="ice3_1_1">Ice1 + Ice2</string>
+    
+    <string name="fire1_0">fire novice</string>
+    <string name="fire1_1">Find to way to controle fire1</string>
+    <string name="fire2_0">fire adept</string>
+    <string name="fire2_1">Find to way to controle fire2</string>
+    <string name="fire3_0">fire Master</string>
+    <string name="fire3_1">Find to way to controle fire3</string>
+    
+    <string name="fire1_0_0">Fire1/2/3</string>
+    <string name="fire1_1_1">Changes a lonely card with the one that it is covering</string>
+
+    
+    <string name="earth1_0">earth novice</string>
+    <string name="earth1_1">Find to way to controle earth1</string>
+    <string name="earth2_0">earth adept</string>
+    <string name="earth2_1">Find to way to controle earth2</string>
+    <string name="earth3_0">earth Master</string>
+    <string name="earth3_1">Find to way to controle earth3</string>
+    
+    <string name="earth1_0_0">earth1</string>
+    <string name="earth1_1_1">Shows you the chosen covered card</string>
+    <string name="earth2_0_0">earth2</string>
+    <string name="earth2_1_1">Shows you the location of your selected card</string>
+    <string name="earth3_0_0">earth3</string>
+    <string name="earth3_1_1">Every time you move a card the covered one is shown</string>
+    
+    <string name="time1_0">time novice</string>
+    <string name="time1_1">Find to way to controle time1</string>
+    <string name="time2_0">time adept</string>
+    <string name="time2_1">Find to way to controle time2</string>
+    <string name="time3_0">time Master</string>
+    <string name="time3_1">Find to way to controle time3</string>
+    
+    <string name="time1_0_0">Time1/2/3</string>
+    <string name="time1_1_1">Undo a move</string>
+
+    
+    <string name="thunder1_0">thunder novice</string>
+    <string name="thunder1_1">Find to way to controle thunder1</string>
+    <string name="thunder2_0">thunder adept</string>
+    <string name="thunder2_1">Find to way to controle thunder2</string>
+    <string name="thunder3_0">thunder Master</string>
+    <string name="thunder3_1">Find to way to controle thunder3</string>
+    
+    <string name="thunder1_0_0">thunder1</string>
+    <string name="thunder1_1_1">Crescent Sort of covered cards of the selected column </string>
+    <string name="thunder2_0_0">thunder2</string>
+    <string name="thunder2_1_1">Shuffle all the covered cards</string>
+    <string name="thunder3_0_0">thunder3</string>
+    <string name="thunder3_1_1">Shuffle covered cards and cards to draw</string>
+    
+     <string name="winboth">Solitaire master</string>
+    <string name="windraw">ready to vegas</string>
+    <string name="moves200">Touchscreen lover</string>
+    <string name="time600">Slepping beauty</string>
+    <string name="fouras">As killer</string>
+    <string name="win10">10 in a row</string>
+    <string name="wastetime">Culo</string>
+    
+    <string name="winboth_1">Win with both Vegas and Draw 3 mode</string>
+    <string name="windraw_1">Win in normal mode without seeing more than one time the deck</string>
+    <string name="moves200_1">Win with more than 200 moves</string>
+    <string name="time600_1">Win in more tha 10 minutes</string>
+    <string name="fouras_1">4 As at the beginning</string>
+    <string name="win10_1">Win ten times in a row</string>
+    <string name="wastetime_1">Culo</string>
+    
+    
+    
+    <string-array name="column">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="compcolumn">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="card">
+        <item>As</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>Jack</item>
+        <item>Queen</item>
+        <item>King</item>
+    </string-array>
+    <string-array name="seed">
+        <item>Hearts</item>
+        <item>Diamonds</item>
+        <item>Clubs</item>
+        <item>Spades</item>
+    </string-array>
+    <string-array name="pos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string name="title_activity_achivement">Achivement</string>
+
+</resources>

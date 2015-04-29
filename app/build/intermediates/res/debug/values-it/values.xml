@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <!-- From: file:/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="av_win_moves">Mosse medie vittoria</string>
+    <string name="av_win_time">tempo medio vittoria</string>
+    <string name="belongs">\' appartiene già ad un altro giocatore! Scegli un nome diverso!</string>
+    <string name="card_to_find">Quale carta vuoi cercare?</string>
+    <string name="classical">classico</string>
+    <string name="complete">Completa</string>
+    <string name="delete">Cancella</string>
+    <string name="draw_3">Pesca 3</string>
+    <string name="earth1_0">earth novice</string>
+    <string name="earth1_1">Find to way to controle earth1</string>
+    <string name="earth2_0">earth adept</string>
+    <string name="earth2_1">Find to way to controle earth2</string>
+    <string name="earth3_0">earth Master</string>
+    <string name="earth3_1">Find to way to controle earth3</string>
+    <string name="enter_your_name">Inserisci il tuo nome</string>
+    <string name="find_it">Cerca</string>
+    <string name="fire1_0">fire novice</string>
+    <string name="fire1_1">Find to way to controle fire1</string>
+    <string name="fire2_0">fire adept</string>
+    <string name="fire2_1">Find to way to controle fire2</string>
+    <string name="fire3_0">fire Master</string>
+    <string name="fire3_1">Find to way to controle fire3</string>
+    <string name="fouras">As killer</string>
+    <string name="fouras_1">4 As at the beginning</string>
+    <string name="game">Gioco</string>
+    <string name="games_played">Partite giocate</string>
+    <string name="go">Vai!</string>
+    <string name="ice1_0">Ice novice</string>
+    <string name="ice1_1">Find to way to controle Ice1</string>
+    <string name="ice2_0">Ice adept</string>
+    <string name="ice2_1">Find to way to controle Ice2</string>
+    <string name="ice3_0">Ice Master</string>
+    <string name="ice3_1">Find to way to controle Ice3</string>
+    <string name="keep_try">GRANDE! HAi raggiunto un nuovo livello, tuttavia ti serve piu\' saggezza per controllare nuovi poteri! COntinua ad allenarti! \nNuovo gioco?</string>
+    <string name="looks_like">Sembra tu possa scegliere un nuovo potere!</string>
+    <string name="min_moves">Numero minimo mosse</string>
+    <string name="min_time">Tempo mgliore</string>
+    <string name="mnorm100_0">Moves lover</string>
+    <string name="mnorm100_1">Win a game in less 100 move in Classical mode</string>
+    <string name="mnorm25_0">I call that luck</string>
+    <string name="mnorm25_1">Win a game in less than 25 moves in Classical mode</string>
+    <string name="mnorm50_0">Save moves, win time</string>
+    <string name="mnorm50_1">Win a game in less than 50 moves in Classical mode</string>
+    <string name="moves">Mosse</string>
+    <string name="moves200">Touchscreen lover</string>
+    <string name="moves200_1">Win with more than 200 moves</string>
+    <string name="mthree100_0">Drag and Drop lover</string>
+    <string name="mthree100_1">Win a game in less 100 move in Draw 3 mode</string>
+    <string name="mthree25_0">Look mom, with no hands</string>
+    <string name="mthree25_1">Win a game in less than 25 moves in Draw 3 mode</string>
+    <string name="mthree50_0">Way to go</string>
+    <string name="mthree50_1">Win a game in less than 50 moves in Draw 3 mode</string>
+    <string name="mvegas100_0">Vegas beginner</string>
+    <string name="mvegas100_1">Win a game in less 100 move in Vegas mode</string>
+    <string name="mvegas25_0">Drag and Drop hater</string>
+    <string name="mvegas25_1">Win a game in less than 25 moves in Vegas mode</string>
+    <string name="mvegas50_0">Less 50</string>
+    <string name="mvegas50_1">Win a game in less than 50 moves in Vegas mode</string>
+    <string name="new_game">Vuoi iniziare un nuovo gioco?</string>
+    <string name="new_player">Nuovo Giocatore</string>
+    <string name="no">No</string>
+    <string name="no_more">Vuoto</string>
+    <string name="not_in_field">Non si trova coperta sul campo</string>
+    <string name="not_null">Sono sicuro che hai un nome migliore di questo</string>
+    <string name="settings">Impostazioni</string>
+    <string name="should_know">Dovresti sapere dove si trova</string>
+    <string name="start_game">Gioca</string>
+    <string name="stats">Statistiche</string>
+    <string name="succs">Cancellato</string>
+    <string name="sure_delete">Sicuro di voler eliminare</string>
+    <string name="the_name">Il nome \'</string>
+    <string name="thunder1_0">thunder novice</string>
+    <string name="thunder1_1">Find to way to controle thunder1</string>
+    <string name="thunder2_0">thunder adept</string>
+    <string name="thunder2_1">Find to way to controle thunder2</string>
+    <string name="thunder3_0">thunder Master</string>
+    <string name="thunder3_1">Find to way to controle thunder3</string>
+    <string name="time1_0">time novice</string>
+    <string name="time1_1">Find to way to controle time1</string>
+    <string name="time2_0">time adept</string>
+    <string name="time2_1">Find to way to controle time2</string>
+    <string name="time3_0">time Master</string>
+    <string name="time3_1">Find to way to controle time3</string>
+    <string name="time600">Slepping beauty</string>
+    <string name="time600_1">Win in more tha 10 minutes</string>
+    <string name="tnorm100_0">Can you really go faster?</string>
+    <string name="tnorm100_1">Win a game in less than 100 seconds in Classical mode</string>
+    <string name="tnorm200_0">In Average</string>
+    <string name="tnorm200_1">Win a game in less than 200 seconds in Classical mode</string>
+    <string name="tnorm300_0">Take your time</string>
+    <string name="tnorm300_1">Win a game in less than 5 minutes in Classical mode</string>
+    <string name="tthree100_0">3 times faster</string>
+    <string name="tthree100_1">Win a game in less than 100 seconds in Draw 3 mode</string>
+    <string name="tthree200_0">Still better than my Grandma</string>
+    <string name="tthree200_1">Win a game in less than 200 seconds in Draw 3 mode</string>
+    <string name="tthree300_0">Wanna a coffee?</string>
+    <string name="tthree300_1">Win a game in less than 5 minutes in Draw 3 mode</string>
+    <string name="tvegas100_0">Flash son</string>
+    <string name="tvegas100_1">Win a game in less than 100 seconds in Vegas mode</string>
+    <string name="tvegas200_0">Lynx eye</string>
+    <string name="tvegas200_1">Win a game in less than 200 seconds in Vegas mode</string>
+    <string name="tvegas300_0">Save the day</string>
+    <string name="tvegas300_1">Win a game in less than 5 minutes in Vegas mode</string>
+    <string name="wastetime">Culo</string>
+    <string name="wastetime_1">Culo</string>
+    <string name="win10">10 in a row</string>
+    <string name="win10_1">Win ten times in a row</string>
+    <string name="win_perc">Percentuale vittorie</string>
+    <string name="winboth">Solitaire master</string>
+    <string name="winboth_1">Win with both Vegas and Draw 3 mode</string>
+    <string name="windraw">ready to vegas</string>
+    <string name="windraw_1">Win in normal mode without seeing more than one time the deck</string>
+    <string name="wnorm100_0">Don\'t you have to study?</string>
+    <string name="wnorm100_1">vinci 100 partite in modalita\' classica</string>
+    <string name="wnorm10_0">Go on son</string>
+    <string name="wnorm10_1">vinci 10 partite in modalita\' classica</string>
+    <string name="wnorm1_0">Classical N00b</string>
+    <string name="wnorm1_1">Vinci una partita in modilita\' classica</string>
+    <string name="wthree100_0">Great patience</string>
+    <string name="wthree100_1">Win 100 game in Draw 3 mode</string>
+    <string name="wthree10_0">3 times better</string>
+    <string name="wthree10_1">Win 10 games in Draw 3 mode</string>
+    <string name="wthree1_0">Draw N00b</string>
+    <string name="wthree1_1">Win 1 game in Draw 3 mode</string>
+    <string name="wvegas100_0">Broken glass</string>
+    <string name="wvegas100_1">Win 100 game in Vegas mode</string>
+    <string name="wvegas10_0">Good Attitude</string>
+    <string name="wvegas10_1">Win 10 games in Vegas mode</string>
+    <string name="wvegas1_0">Vegas N00b</string>
+    <string name="wvegas1_1">Win 1 game in Vegas mode</string>
+    <string name="yes">Si</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item android:id="@android:id/background">
+    <shape>
+      <corners android:radius="5dip" />
+      <gradient
+        android:angle="180"
+        android:centerColor="#287BDA"
+        android:centerY="0.5"
+        android:endColor="#FFFFFF"
+        android:startColor="#00418B" />
+    </shape>
+  </item>
+  <item android:id="@android:id/progress">
+    <clip>
+      <shape>
+        <corners android:radius="5dip" />
+          <gradient
+        android:angle="180"
+        android:centerColor="#FF000000"
+        android:centerY="0.5"
+        android:endColor="#FF000000"
+        android:startColor="#FF000000" />
+      </shape>
+    </clip>
+  </item>
+</layer-list>
+<!-- From: file:/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/src/main/res/drawable-hdpi/burn_mana.xml -->

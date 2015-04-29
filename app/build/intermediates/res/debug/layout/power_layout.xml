@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <Spinner
+        android:id="@+id/spinner1"
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/delete"
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="USE"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+</LinearLayout>
+<!-- From: file:/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/src/main/res/layout/power_layout.xml -->

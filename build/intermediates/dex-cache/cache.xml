@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Enea/.gradle/caches/modules-2/files-2.1/com.github.japgolly.android/svg-android/2.0.5/4574705df930e6440c31bcd199bb7bbe01d15bf6/svg-android-2.0.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4574705df930e6440c31bcd199bb7bbe01d15bf6">
+        <dex dex="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/pre-dexed/debug/svg-android-2.0.5-770098f52ab18cb9556e3526f3f56a2c0c695c3d.jar" />
+    </item>
+    <item
+        jar="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/pre-dexed/debug/classes-d14014a82c8f5cb41c44f114ef2d5faccb418dd0.jar" />
+    </item>
+    <item
+        jar="/Users/Enea/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-bbf2fecc91e1c7d88541a91eac9f614e77edec4e.jar" />
+    </item>
+    <item
+        jar="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9964aaadacdfd2919afa203f57882c940fea4680.jar" />
+    </item>
+    <item
+        jar="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/build/intermediates/pre-dexed/debug/classes-537667469f01472f74e9a079bceaad3c3917373a.jar" />
+    </item>
+
+</items>

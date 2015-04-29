@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000"
+    android:gravity="center"
+    android:padding="3dp" >
+  
+   <TextView
+       android:id="@+id/settText"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center|center"
+       android:background="#00000000"
+       android:text="Large Text"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:textSize="20sp" />
+  
+ </LinearLayout> 
+<!-- From: file:/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/src/main/res/layout/spinner_item.xml -->

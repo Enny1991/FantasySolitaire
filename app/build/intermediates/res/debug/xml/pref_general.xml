@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="vegas"
+        android:summary="Activate Vegas mode"
+        android:title="Vegas" />
+    
+    
+    
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="draw3"
+        android:summary="Activate Draw 3 mode"
+        android:title="Draw 3" />
+
+    
+    
+    
+
+</PreferenceScreen>
+<!-- From: file:/Users/Enea/AndroidstudioProjects/FantasySolitaire/app/src/main/res/xml/pref_general.xml -->
