@@ -245,7 +245,7 @@ public class MainActivity extends Activity {
 							i.putExtra("playerName", toPut);
 							startActivity(i);
 							dialog.dismiss();
-							overridePendingTransition(R.drawable.transition1,R.drawable.transition2);
+							overridePendingTransition(R.anim.transition1,R.anim.transition2);
 							finish();
 							}catch(SQLException e){
 								final Toast toast = new Toast(getApplicationContext());
@@ -282,7 +282,7 @@ public class MainActivity extends Activity {
 					nameOfPlayer = sItems.getSelectedItem().toString();
 					i.putExtra("playerName", nameOfPlayer);
 					startActivity(i);
-					overridePendingTransition(R.drawable.transition1,R.drawable.transition2);
+					overridePendingTransition(R.anim.transition1,R.anim.transition2);
 					finish();
 				}
 				
@@ -530,7 +530,7 @@ public class MainActivity extends Activity {
 						i.putExtra("playerName", toPut);
 						startActivity(i);
 						dialog.dismiss();
-						overridePendingTransition(R.drawable.transition1,R.drawable.transition2);
+						overridePendingTransition(R.anim.transition1,R.anim.transition2);
 						finish();
 						}catch(SQLException e){
 							Toast toast = new Toast(getApplicationContext());
